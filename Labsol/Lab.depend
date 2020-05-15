@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1514140574 source:c:\temp\lab\lab2ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1556124467 source:c:\temp\lab\demo.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1556203351 source:c:\temp\lab\lab02ex2.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1556268366 source:c:\temp\lab\lab02ex4.c
+	<stdio.h>
+	<math.h>
+
+1556276041 source:c:\temp\lab\lab04ex3.c
+	<stdio.h>
+
+1556276565 source:c:\temp\lab\cny_ex2.c
+	<stdio.h>
+
+1556278235 source:c:\temp\lab\lab05ex1.c
+	<stdio.h>
+	<stdio.h>
+	<math.h>
+
+1556279221 source:c:\temp\lab\lab08ex2.c
+	<math.h>
+	<stdio.h>
+	<sys/param.h>
+
+1556282511 source:c:\temp\lab\lab09ex1.c
+
+1556282679 source:c:\temp\lab\lab09ex2.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
+1556280055 source:c:\temp\lab\lab11ex2.c
+	<stdio.h>
+
+1556286324 source:c:\temp\lab\lab12ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1556286842 source:c:\temp\lab\lab01ex1.c
+	<stdio.h>
+
+1556287020 source:c:\temp\lab\lab01ex2.c
+	<stdio.h>
+	<math.h>
+
+1556287118 source:c:\temp\lab\lab01ex3.c
+	<stdio.h>
+
+1556288520 source:c:\temp\lab\lab13ex1.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
